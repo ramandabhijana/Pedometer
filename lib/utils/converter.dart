@@ -18,4 +18,9 @@ class Converter {
     return formatter.format(date);
   }
 
+  static String yMdDateString(DateTime date) {
+    final formatter = DateFormat('yMd');
+    return formatter.format(date);
+  }
+
 }

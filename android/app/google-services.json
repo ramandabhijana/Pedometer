@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57273319288",
+    "project_id": "pedometer-29ec4",
+    "storage_bucket": "pedometer-29ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57273319288:android:2d228fd4c2af2e7cd3128d",
+        "android_client_info": {
+          "package_name": "com.abhijana.nhs_pedometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57273319288-cs3frdhc87h4onpa2c7s5p08klcnsg84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_bbE5OQClrmcBG6fZcGX-DVf2baWvEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57273319288-cs3frdhc87h4onpa2c7s5p08klcnsg84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

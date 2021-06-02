@@ -18,16 +18,18 @@ class HeaderTitle extends StatelessWidget {
         Text(
           date,
           style: TextStyle(
+            fontFamily: 'Futura',
             fontWeight: FontWeight.w400,
             color: Colors.white70,
-            fontSize: 12
+            fontSize: 10
           ),
         ),
-        const SizedBox(height: 8,),
+        const SizedBox(height: 8),
         Text(
           status,
           style: TextStyle(
-            fontSize: 22,
+            fontFamily: 'Futura',
+            fontSize: 20,
             fontWeight: FontWeight.w500,
             color: Colors.white,
           ),

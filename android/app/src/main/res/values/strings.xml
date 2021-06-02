@@ -2,12 +2,7 @@
 <resources>
     <string name="app_name">Pedometer</string>
 
-    <!-- Replace "000000000000" with your Facebook App ID here. -->
-    <string name="facebook_app_id">447289326538969</string>
+    <string name="facebook_app_id">324655055675622</string>
+    <string name="fb_login_protocol_scheme">fb324655055675622</string>
 
-    <!--
-      Replace "000000000000" with your Facebook App ID here.
-      **NOTE**: The scheme needs to start with `fb` and then your ID.
-    -->
-    <string name="fb_login_protocol_scheme">fb447289326538969</string>
 </resources>

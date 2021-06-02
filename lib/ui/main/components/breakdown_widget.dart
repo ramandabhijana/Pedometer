@@ -16,13 +16,13 @@ class BreakdownWidget extends StatelessWidget {
           style: TextStyle(
             fontWeight: FontWeight.w500,
             color: Colors.white,
-            fontSize: 18,
+            fontSize: 16,
           ),
         ),
         Text(
           name,
           style: TextStyle(
-            fontSize: 12,
+            fontSize: 10,
             fontWeight: FontWeight.w400,
             color: Colors.white70,
           ),
